@@ -1,0 +1,1 @@
+Cloud code project for qianming. https://cn.avoscloud.com/docs/cloud_code_guide.html
